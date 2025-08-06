@@ -45,11 +45,19 @@ a{
 .text-white{
     color: #FFFFFF;
 }
-.align-item-center{
+.align-items-center{
     align-items: center;
 }
 .text-grey{
     color: #717171;
+}
+.dot{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+}
+.bg-light-green{
+    background-color: rgba(76, 175, 79, 0.3);;
 }
 /* custome style */
 
@@ -78,7 +86,7 @@ nav ul li{
     padding: 10px;
 }
 .section1{
-    padding: 133px 0px;
+    padding: 133px 0px 0px 0px;
 }
 .Pstyle{
     font-size: 64px;
@@ -90,4 +98,11 @@ nav ul li{
 .section1-img{
     margin-top: -56%;
     margin-left: 147%;
+}
+.dots{
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+.dot{
+    margin-left:5px ;
 }
