@@ -1,8 +1,9 @@
-Reset Style
+/* Reset Style */
 *{
     margin:0;
     padding:0;
     box-sizing:border-box;
+    font-family: "Inter", sans-serif;
 }
 ul{
     list-style:none;
@@ -32,9 +33,6 @@ a{
 .mt-1{
     margin-top:1%;
 }
-.font-inter{
-    font-family: "Inter", sans-serif;
-}
 .bg-grey{
     background-color: #F5F7FA;
 }
@@ -46,6 +44,12 @@ a{
 }
 .text-white{
     color: #FFFFFF;
+}
+.align-item-center{
+    align-items: center;
+}
+.text-grey{
+    color: #717171;
 }
 /* custome style */
 
@@ -63,9 +67,27 @@ nav ul li{
     font-weight: 400;
 }
 .btn{
-     margin-bottom: 6px;
+    margin-bottom: 6px;
     margin-top: 8px;
     border: none;
     padding: 13px 21px;
     border-radius: 8%;
+    font-weight: 600;
+}
+.nav-div{
+    padding: 10px;
+}
+.section1{
+    padding: 133px 0px;
+}
+.Pstyle{
+    font-size: 64px;
+    font-weight: 600;
+}
+.Register{
+    font-weight: 400;
+}
+.section1-img{
+    margin-top: -56%;
+    margin-left: 147%;
 }
