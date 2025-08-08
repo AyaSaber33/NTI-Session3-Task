@@ -51,6 +51,9 @@ a{
 .text-grey{
     color:rgba(77, 77, 77, 1);
 }
+.text-light-grey{
+   color: rgba(113, 113, 113, 1)
+}
 .dot{
     border-radius: 50%;
     width: 10px;
@@ -71,16 +74,17 @@ a{
     font-weight: 600;
     cursor: pointer;
 }
+
 /* custome style */
 
 ul li{
     margin:0 7%;
 }
 .nav-btn{
-    margin-left: 13%;
+    margin-left: 16%;
 }
 .nav-ul{
-    margin: 0% 23% 0 7%;
+    margin: 0% 23% 0 8%;
 }
 nav ul li{
     margin-left: 10%;
@@ -126,7 +130,6 @@ nav ul li{
 .p1-sec2{
     font-size: 36px;
     font-weight: 600;
-    color: rgba(77, 77, 77, 1);
     margin: 0% 0% 0% 12%;
 }
 .p2-sec2{
@@ -134,4 +137,67 @@ nav ul li{
 }
 .logos{
     margin-top: 3%;
+}
+.p1-sec3{
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 3%;
+}
+.p2-sec3{
+    font-size: 16px;
+    margin: 2% 0% 2% 15%;
+}
+.div-sec3{
+    padding-left: 30%;
+}
+.span-sec3{
+    margin-left: 12%;
+}
+.p-card-big{
+    font-weight: 700;
+    font-size: 28px;
+}
+.card{
+    width: 25%;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    padding-bottom: 1%;
+}
+.cards{
+    margin-top: 3%;
+}
+.icon-wrapper {
+  background-color: rgba(76, 175, 79, 0.1);
+  border-radius: 12px;                     
+  width: 50px;
+  height: 50px;
+}
+.icon{
+    padding-bottom: 4%;
+    margin-left: 36%;
+    padding-top: 10%;
+}
+.p-card1{
+    margin-left: 18%;
+}
+.p-card2{
+    margin-left: 20%;
+}
+.p-card3{
+    margin-left: 25%;
+}
+.Membership{
+    margin-left: 4%;
+}
+.National{
+    margin-left: 13%;
+}
+.Clubs{
+    margin-left: 2%;
+}
+.Groups{
+    margin-left: 7%;
+}
+.pp-sec3{
+    margin-left: 7%;
+    margin-top: 6%;
 }
