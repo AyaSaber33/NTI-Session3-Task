@@ -66,10 +66,11 @@ a{
     background-color: #FFFFFF;
 }
 .btn{
+    font-size: 16px;
     margin-bottom: 6px;
     margin-top: 8px;
     border: none;
-    padding: 13px 21px;
+    padding: 13px 19px;
     border-radius: 8%;
     font-weight: 600;
     cursor: pointer;
@@ -200,4 +201,19 @@ nav ul li{
 .pp-sec3{
     margin-left: 7%;
     margin-top: 6%;
+}
+.p1-sec4{
+    margin: 8% 0% 0% 15%;
+}
+.sec4{
+    margin-top: 3%;
+}
+.btn-learn{
+    margin: 2% 0% 0% 15%;
+    font-size: 16px;
+    border: none;
+    padding: 17px 30px;
+    border-radius: 4%;
+    font-weight: 600;
+    cursor: pointer;
 }
