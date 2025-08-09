@@ -54,6 +54,9 @@ a{
 .text-light-grey{
    color: rgba(113, 113, 113, 1)
 }
+.text-lighter-grey{
+   color: rgba(137, 147, 158, 1);
+}
 .dot{
     border-radius: 50%;
     width: 10px;
@@ -86,7 +89,12 @@ a{
 .w-100{
     width: 100%;
 }
-
+.fw-600{
+    font-weight: 600;
+}
+.fs-20{
+    font-size: 20px;
+}
 /* custome style */
 
 ul li{
@@ -233,8 +241,8 @@ nav ul li{
 }
 .p-div-sec5{
     width: 45%;
-    padding-bottom: 3%;
-    margin-top: 6%;
+    padding-bottom: 5%;
+    margin-top: 5%;
 }
 .p-after-number{
     font-weight: 400;
@@ -262,4 +270,30 @@ nav ul li{
 }
 .div6-sec5{
     margin-left: 12%;
+}
+.sec6{
+    padding-bottom: 3%;
+}
+.sec7-icons{
+    width: 42px;
+    margin-right: 5%;
+}
+.sec7{
+    padding-top: 1%;
+}
+.p1-div7{
+    margin-top: 4%;
+}
+.p2-div7{
+    margin: 3% 0%;
+}
+.p3-div7{
+    margin-bottom: 5%;
+}
+.p4-div7{
+    margin-top: 2%;
+}
+.i-style{
+    margin-left: 1%;
+    margin-top: 3%;
 }
