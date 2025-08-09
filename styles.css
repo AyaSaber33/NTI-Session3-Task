@@ -75,6 +75,17 @@ a{
     font-weight: 600;
     cursor: pointer;
 }
+.p-bold-style{
+    font-size: 36px;
+    font-weight: 600;
+}
+.numbers{
+    font-weight: 700;
+    font-size:28px;
+}
+.w-100{
+    width: 100%;
+}
 
 /* custome style */
 
@@ -140,8 +151,6 @@ nav ul li{
     margin-top: 3%;
 }
 .p1-sec3{
-    font-size: 36px;
-    font-weight: 600;
     margin-top: 3%;
 }
 .p2-sec3{
@@ -216,4 +225,41 @@ nav ul li{
     border-radius: 4%;
     font-weight: 600;
     cursor: pointer;
+}
+.p2-sec5{
+    font-weight: 400;
+    font-size : 16px;
+    margin: 3% 0%;
+}
+.p-div-sec5{
+    width: 45%;
+    padding-bottom: 3%;
+    margin-top: 6%;
+}
+.p-after-number{
+    font-weight: 400;
+    font-size: 16px;
+}
+.div-sec5{
+    margin-top: 5%;
+    width: 34%;
+}
+.div2-sec5{
+    margin-left: 9%;
+}
+.div3-sec5{
+    margin-top: 20%;
+}
+.div4-sec5{
+    margin-right: 6%;
+}
+.img-sec5{
+    margin-left: 39%;
+}
+.div5-sec5{
+    margin-left: 11%;
+    margin-top: 19%;
+}
+.div6-sec5{
+    margin-left: 12%;
 }
